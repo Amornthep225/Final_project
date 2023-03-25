@@ -1,0 +1,74 @@
+
+
+
+.modal-header  {
+    text-align: center;
+    background-color: aqua;
+}
+.modal-body{
+    background-color: black;
+}
+
+.modal-footer{
+    background-color:brown;
+}
+.name{
+    font-size:  50px;
+    border: 1px solid black;
+    color: whitesmoke;
+    background-color:red ;
+}
+.nickname{
+    font-size:  50px;
+    border: 1px solid black;
+    color: whitesmoke;
+    background-color:orange;
+}
+.hobby{
+    font-size:  50px;
+    border: 1px solid black;
+    color:purple;
+    background-color:yellow;
+}
+.date{
+    font-size:  50px;
+    border: 1px solid black;
+    color: white;
+    background-color:green;
+}
+.educationalrecord{
+    font-size:  50px;
+    border: 1px solid black;
+    color: white;
+    background-color:blue;
+}    
+.educationalrecord a{
+    font-size:  50px;
+    border: 1px solid black;
+    color: white;
+
+}    
+.Socialstudies{
+    font-size:  50px;
+    border: 1px solid black;
+    color: white;
+    background-color:purple;
+}
+.petfavorite{
+    font-size:  50px;
+    border: 1px solid black;
+    color: white;
+    background-color:pink;
+}
+.petdislike{
+    font-size:  50px;
+    border: 1px solid black;
+    color: whitesmoke;
+    background-color:red ;
+}
+.subjectdislike{
+    font-size:  50px;
+    border: 1px solid black;
+    color: whitesmoke;
+    background-color:orange;
+}
